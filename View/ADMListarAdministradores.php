@@ -15,7 +15,7 @@ href="style.css">
  if(!isset($_SESSION)) { 
     session_start();
  } ?>
- <!--Incial -->
+
  <header class="w3-container w3-padding-32 w3-center ">
  <h1 class="w3-text-white w3-panel w3-cyan w3-round-large"> Lista de
 Administradores Cadastrados no Sistema </h1>
